@@ -47,7 +47,7 @@ For cada elemento en M:
     
   # Ejercicio 4
     
-    Input:
+  Input:
   M= arreglo tamaño n
   Output:
   Elemento mas pequeño
