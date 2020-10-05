@@ -1,5 +1,5 @@
 # Pseudocódigo ciclos for
-#Ejercicio 1
+# Ejercicio 1
 Input
 M= arreglo con n elementos
 Output
@@ -11,9 +11,9 @@ For cada elemento en M:
   
   return m
   
-  ** Por el for, y despreciando los demás componentes, es de longitud, n, y por tener que ejecutar el ciclo completo, la complejidad queda de theta(n) **
+  **Por el for, y despreciando los demás componentes, es de longitud, n, y por tener que ejecutar el ciclo completo, la complejidad queda de theta(n)**
 
- #Ejercicio 2
+ # Ejercicio 2
  
  Input:
  A= arreglo de tamaño n
@@ -27,9 +27,9 @@ For cada elemento en M:
  mean Suma/n
  return mean
  
- ** Por el for, y despreciando los demás componentes, es de longitud, n, y por tener que ejecutar el ciclo completo, la complejidad queda de theta(n) **
+ **Por el for, y despreciando los demás componentes, es de longitud, n, y por tener que ejecutar el ciclo completo, la complejidad queda de theta(n)**
  
- #Ejercicio 3
+ # Ejercicio 3
  
   Input:
   M= arreglo tamaño n
@@ -43,9 +43,9 @@ For cada elemento en M:
         menor=elemento[i]
         break
     return menor
-  ** Complejidad: Es de n^2, y por el break, sería de O(n2) ** 
+  **Complejidad: Es de n^2, y por el break, sería de O(n2)** 
     
-    #Ejercicio 4
+  # Ejercicio 4
     
     Input:
   M= arreglo tamaño n
@@ -59,9 +59,9 @@ For cada elemento en M:
         menor=elemento[i]
     return mayor
     
-  ** Es de n^2, y por el break, sería de O(n2) **
+  **Es de n^2, y por el break, sería de O(n2)**
   
- #Ejercicio 5
+ # Ejercicio 5
  Input
  n= número
  Output:
@@ -72,6 +72,6 @@ For cada elemento en M:
     return False
   return True
   
- ** Sería de tamaño n, y al tener que ejecutarse todo el ciclo, complejidad=theta(n) **
+ **Sería de tamaño n, y al tener que ejecutarse todo el ciclo, complejidad=theta(n)**
     
   
